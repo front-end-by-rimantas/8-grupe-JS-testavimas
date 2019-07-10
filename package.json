@@ -1,0 +1,15 @@
+{
+  "name": "js-testavimas",
+  "version": "1.0.0",
+  "description": "Testuojame savo JavaScript'ines funkcijas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll *.js"
+  },
+  "author": "Rimantas Belovas",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
